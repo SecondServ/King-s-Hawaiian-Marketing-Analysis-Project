@@ -1,5 +1,6 @@
 # King-s-Hawaiian-Marketing-Analysis-Project
-Data Analysis Project with King's Hawaiian
+Data Analysis Project with King's Hawaiian    
+
 ### Project Sponsor: King’s Hawaiian
 Founded in 1950 in Hilo, Hawaii, by Robert R. Taira, KING'S HAWAIIAN is a family-owned
 business that for three generations has been dedicated to providing irresistible, original recipe
@@ -48,3 +49,6 @@ The project was managed by a group of 6 USC MSBA students:
 - Shiru Xu
 - Yulin Zhang
 - Zihao Zhao
+
+### Final Output Page
+https://secondserv.github.io/King-s-Hawaiian-Marketing-Analysis-Project/
